@@ -1,0 +1,41 @@
+export const clients = [
+  {
+    linkImg:
+      "https://cdn5.vectorstock.com/i/1000x1000/68/44/luxury-cosmetics-realistic-advertisement-poster-vector-19886844.jpg",
+  },
+  {
+    linkImg: "https://etimg.etb2bimg.com/photo/89399061.cms",
+  },
+  {
+    linkImg:
+      "https://www.singlegrain.com/wp-content/uploads/2023/05/pasted-image-0-62.png",
+  },
+  {
+    linkImg:
+      "https://images.squarespace-cdn.com/content/v1/5311a517e4b08cb68814f755/1574025853856-5NI9MA58OANCX8QTB91Q/Luxury-Product-Caran-D-Ache-Ecridor-by-Patric-Pop-Geneva-Switzerland.jpg",
+  },
+  {
+    linkImg:
+      "https://i.pinimg.com/736x/3d/1c/71/3d1c7119f809873fe15d75da8151c770.jpg",
+  },
+  {
+    linkImg:
+      "https://i.pinimg.com/originals/ff/73/69/ff73694adbddf0e5d5dbfc0dc9d63786.jpg",
+  },
+  {
+    linkImg:
+      "https://www.adgully.com/img/800/202009/dbs-bank-india_campaign_2.png.jpg",
+  },
+  {
+    linkImg:
+      "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/luxury-brands-design-template-a5756196a140699ce1a47c3a37f00918_screen.jpg?ts=1651740645",
+  },
+  {
+    linkImg:
+      "https://png.pngtree.com/thumb_back/fw800/background/20221007/pngtree-luxury-jewelry-on-emerald-water-background-for-brand-ads-photo-image_49176262.jpg",
+  },
+  {
+    linkImg:
+      "https://img.lovepik.com/free-template/01/50/12/26rpIkbEsTg9n.jpg_master.jpg!detail808",
+  },
+];
