@@ -1,13 +1,9 @@
-﻿# Build An Awesome Landing Page in ReactJS & TailwindCSS! 
-![alt text](https://github.com/TECHCROWDMY/practice-landing-page/blob/main/cover.jpg?raw=true)
-
-
-1. Clone the repository.
-2. Run npm install command.     ```npm install```
-3. Run npm run dev.     ```npm run dev```
-
-
-
-
-
+1. This project is made using Vite.
+   
+2. To run it locally in your machine follow these steps:
+   a> Clone the project using command ```git clone```
+   b> Run npm install command ```npm install```
+   c> Run npm run dev.     ```npm run dev```
+   
+3. Demo link of the above project: https://howl-digital-project.vercel.app
 
